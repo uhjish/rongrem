@@ -1,0 +1,1 @@
+scrapy runspider arp/spiders/reviews.py -t jsonlines -o out.json
