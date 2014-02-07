@@ -9,6 +9,8 @@ class ArpItem(Item):
     # define the fields for your item here like:
     # name = Field()
     hotel = Field()
+    hotel_name = Field()
+    hotel_score = Field()
     score = Field()
     title = Field()
     liked = Field()

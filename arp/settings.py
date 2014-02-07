@@ -15,7 +15,7 @@ NEWSPIDER_MODULE = 'arp.spiders'
 #USER_AGENT = 'arp (+http://www.yourdomain.com)'
 
 
-MAX_REVIEWS = 100
+MAX_REVIEWS = 1000
 REVS_PER_PAGE = 20
 REVS_URL_PATT = 'http://www.agoda.com/pages/agoda/popup/popup_review.aspx?hotelID=HOTEL_ID'
 
